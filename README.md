@@ -1,2 +1,2 @@
 # Site_TaylorHuston
-Files for my portfiol site, taylorhuston.me
+Files for my portfolio site, taylorhuston.me
